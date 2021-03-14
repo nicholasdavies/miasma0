@@ -12,3 +12,5 @@ LazyData: true
 RoxygenNote: 7.1.1
 Imports: 
     data.table
+URL: https://github.com/nicholasdavies/covidm3
+BugReports: https://github.com/nicholasdavies/covidm3/issues
